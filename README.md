@@ -98,9 +98,9 @@ Motto              : Technology should simplify business.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ershubham29&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ershubham29&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -110,7 +110,7 @@ Motto              : Technology should simplify business.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ershubham29&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -120,7 +120,7 @@ Motto              : Technology should simplify business.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ershubham29&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -130,7 +130,7 @@ Motto              : Technology should simplify business.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ershubham29&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -140,7 +140,7 @@ Motto              : Technology should simplify business.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/ershubham29/ershubham29/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -168,15 +168,15 @@ Others          ██                         3%
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/ershubham29">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/ershubham">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:hello@digigini.com">
+<a href="mailto:shubham@digigini.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -190,7 +190,7 @@ Others          ██                         3%
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ershubham29&style=for-the-badge)
 
 ### ⭐ Building products that help businesses automate, grow & scale.
 
