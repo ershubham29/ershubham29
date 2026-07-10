@@ -1,169 +1,136 @@
 <div align="center">
 
-# Hi there 👋 I'm Shubham Shrivastava
+# 👋 Hi, I'm Shubham Shrivastava
 
-### Founder & CEO @ DigiGini Corp Pvt Ltd
+### Founder & CEO • DigiGini Corp Pvt Ltd
 
-Building SaaS products that help businesses automate, grow & scale.
-
-<img src="YOUR_PROFILE_IMAGE_URL" width="180" style="border-radius:50%;" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Founder+%26+Full+Stack+Developer;Flutter+%7C+Laravel+%7C+AWS;Building+Bookz+%7C+LetsTap+%7C+DigiGini;Offline-First+Architecture+Expert;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Founder+%7C+Full+Stack+Developer;Flutter+%7C+Laravel+%7C+AWS;Building+Bookz+%7C+LetsTap+%7C+DigiGini;Offline+First+Architecture;Always+Learning+Something+New"/>
 
 </div>
 
 ---
 
-# 💻 About Me
+# 🖥 Terminal
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  👤 Name       : Shubham Shrivastava                         │
-│  💼 Position   : Founder & CEO                               │
-│  🏢 Company    : DigiGini Corp Pvt Ltd                       │
-│  🌍 Location   : India                                       │
-│                                                              │
-│  💡 Building software that empowers businesses.              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+██████╗ ██╗ ██████╗ ██╗ ██████╗ ██╗███╗   ██╗██╗
+██╔══██╗██║██╔════╝ ██║██╔════╝ ██║████╗  ██║██║
+██║  ██║██║██║  ███╗██║██║  ███╗██║██╔██╗ ██║██║
+██║  ██║██║██║   ██║██║██║   ██║██║██║╚██╗██║██║
+██████╔╝██║╚██████╔╝██║╚██████╔╝██║██║ ╚████║██║
+╚═════╝ ╚═╝ ╚═════╝ ╚═╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝
 
----
 
-# 🖥️ System Information
-
-```text
 shubham@digigini
-────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
 
-OS                : Windows 11 | Android
+OS                 : Windows 11 | Android
 
-Role              : Founder | Full Stack Developer
+Role               : Founder & Full Stack Developer
 
-Languages         : Dart
-                    PHP
-                    JavaScript
-                    SQL
+Company            : DigiGini Corp Pvt Ltd
 
-Frameworks        : Flutter
-                    Laravel
-                    Livewire
+Languages          : Dart
+                     PHP
+                     JavaScript
+                     SQL
 
-Database          : MySQL
-                    Hive
-                    SQLite
+Frameworks         : Flutter
+                     Laravel
+                     Livewire
 
-Cloud             : AWS
+Database           : MySQL
+                     Hive
+                     SQLite
 
-Tools             : Git
-                    GitHub
-                    VS Code
-                    Android Studio
-                    Postman
-                    Figma
+Cloud              : AWS
 
-Architecture      : Offline First
-                    REST APIs
-                    MVC
-                    Clean Architecture
+Architecture       : Offline First
+                     REST APIs
+                     MVC
+                     Clean Architecture
 
-Interests         : SaaS
-                    AI
-                    FinTech
-                    Product Design
-                    System Design
-                    Startups
+Products           : DigiGini
+                     Bookz
+                     LetsTap
+                     Udyam Wise
 
-Current Mission   : Build India's Best Business Operating System
+Currently Building : AI Business Automation
+                     Offline ERP
+                     Billing Platform
+
+Interests          : SaaS
+                     AI
+                     FinTech
+                     System Design
+
+Website            : https://digigini.com
+
+Email              : hello@digigini.com
+
+Motto              : Technology should simplify business.
 ```
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Products
 
-| Project | Description |
-|---------|-------------|
-| 📚 Bookz | Offline-first Billing & Accounting Software |
+| Product | Description |
+|----------|-------------|
+| 📚 Bookz | Billing & Accounting Software |
 | 🚀 DigiGini | Business Automation Platform |
-| 💳 LetsTap | NFC Digital Business Cards |
-| 📊 Udyam Wise | Business Consultancy Platform |
+| 💳 LetsTap | NFC Digital Business Card |
+| 📊 Udyam Wise | Compliance & Consultancy |
 
 ---
 
-# ⚡ Tech Stack
-
-## Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs"/>
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
-</p>
-
-## Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github"/>
-</p>
-
-## IDEs & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman"/>
-</p>
-
----
-
-# 📈 GitHub Statistics
+# 💻 Tech Stack
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,sqlite,aws,firebase,git,github,linux,docker,vscode,androidstudio,figma"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Activity Graph
+# 🔥 Streak
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -173,55 +140,44 @@ Current Mission   : Build India's Best Business Operating System
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 📊 Coding Activity
+# 📊 Languages
 
 ```text
-Flutter            ████████████████████████   45%
+Flutter         ████████████████████████   45%
 
-Laravel            ███████████████████        35%
+Laravel         ███████████████████        30%
 
-PHP                ███████████                10%
+PHP             ███████████                10%
 
-JavaScript         █████                      5%
+JavaScript      ███████                    7%
 
-DevOps             ███                        3%
+SQL             █████                      5%
 
-Others             ██                         2%
+Others          ██                         3%
 ```
 
 ---
 
-# 🌟 What I'm Working On
-
-- 🚀 Scaling DigiGini
-- 📚 Building Bookz ERP
-- 🤖 AI-powered Business Automation
-- 📱 Offline-First Flutter Apps
-- ☁️ AWS Cloud Infrastructure
-- 📊 ERP & CRM Systems
-
----
-
-# 📫 Connect With Me
+# 📫 Connect
 
 <p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:hello@digigini.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/ershubham29">
-<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://digigini.com">
@@ -232,16 +188,10 @@ Others             ██                         2%
 
 ---
 
-# 💬 Quote
-
-> **"Technology should simplify business, not complicate it."**
-
----
-
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=ershubham29&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
 
-⭐️ From **Shubham Shrivastava**
+### ⭐ Building products that help businesses automate, grow & scale.
 
 </div>
