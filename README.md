@@ -1,8 +1,3 @@
-<div align="center">
-
-# 💻 shubham@digigini:~ / README.md
-
-</div>
 
 ```text
 ttffffffL@@@@@@@@@@@@@8000008@@@@@@@@@@@@1::    shubham@digigini
@@ -41,12 +36,12 @@ LL;     ,,tLffffftttttttfffLLC0888@@@@@@80Lt      not complicate it.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamcodes&theme=tokyonight&hide_border=true&background=0d1117&ring=39d353&fire=ff6b35" height="165" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=ershubham29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ershubham29&theme=tokyonight&hide_border=true&background=0d1117&ring=39d353&fire=ff6b35" height="165" alt="Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" height="140" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ershubham29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" height="140" alt="Top Languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamcodes&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=58a6ff" width="95%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ershubham29&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=58a6ff" width="95%" alt="Contribution Graph" />
 
 </div>
 
@@ -101,6 +96,6 @@ LL;     ,,tLffffftttttttfffLLC0888@@@@@@80Lt      not complicate it.
 
 > **Technology should simplify business, not complicate it.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=shubhamcodes&color=39d353&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ershubham29&color=39d353&style=for-the-badge)
 
 </div>
