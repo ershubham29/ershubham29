@@ -22,8 +22,8 @@ ffffffffLLLLLLCCf..;1fLtf;.,;C8@@0@@880CCLft    Frameworks : Flutter, Laravel, L
                           .             ...,    Contact
   .                 .                    ...    Email      : hello@digigini.com
                                           ..    Website    : https://digigini.com
-                                    .    ...    LinkedIn   : /in/shubhamshrivastava
-                                 .,1C:          Twitter    : @shubhamcodes
+                                    .    ...    LinkedIn   : /in/ershubham
+                                 .,1C:          Twitter    : @ershubham
   .                              1L1f, :ii;:    ────────────────────────────────────
   .                             ;LfLfiL8880L    Motto
 t;.                      ..,,;1LC08888@880Cf    > Technology should simplify business,
